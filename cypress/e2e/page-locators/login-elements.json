@@ -1,0 +1,9 @@
+{
+  "loginLocators": {
+    "username": "#user-name",
+    "password": "#password",
+    "loginBtn": "#login-button",
+    "loginError": "h3[data-test='error']",
+    "menu": "div.bm-burger-button"
+  }
+}
